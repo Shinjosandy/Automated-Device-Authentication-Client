@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Generated Keys
+private.pem
+public.pem
+
+# Generated Signatures
+signature.bin
+signature.txt
+
+# Temporary Challenge Files
+challenge.txt
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+*.db
+instance/*.db
